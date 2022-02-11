@@ -1,0 +1,75 @@
+.box-b{
+    align-self: center;
+    border: 1px;
+    width: 400px;
+    margin:auto;
+    border-style: solid;
+    margin-top: 100px;
+    padding: 10px;
+
+
+}
+
+.center {
+    vertical-align: : middle;
+}
+
+
+input {
+    width: 98%;
+}
+
+h2 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box{
+    align-self: center;
+    text-align: center;
+    width: 400px;
+    margin:auto;
+    margin-top: 1px;
+    padding: 5px;
+}
+
+.buttonone {
+    width: 100%;
+    background-color: #f7c548;
+}
+
+.buttontwo {
+    width: 100%;
+    color: lightslategrey;
+}
+
+.field {
+    margin: 35px 0px 35px 0px;
+}
+
+.fieldtwo {
+    margin: auto;
+}
+
+.link {
+    display: flex;
+    justify-content: space-around
+}
+
+.margins {
+    margin-bottom: 8px;
+}
+
+.background{
+    background-color: white;
+}
+
+.newbox{
+    align-self: center;
+    text-align: center;
+    width: 400px;
+    margin:auto;
+    margin-top: 1px;
+    margin-bottom: 30px;
+    padding: 5px;
+}
